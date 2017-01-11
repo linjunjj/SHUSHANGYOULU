@@ -1,0 +1,73 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BSTToolsBox</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="welcome_content_title">蓝色技术工作室</string>
+    <string name="welcome_content_subtitle">www.lsjse.com</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_sxx">首选项</string>
+    <string name="menu_driver_info">设备信息</string>
+    <string name="menu_enable_find">允许被查找</string>
+    <string name="xml_about_id_bst">bst</string>
+    <string name="xml_about_text_bst">BST 软件中心 出品</string>
+    <string name="xml_about_version_key_now">version</string>
+    <string name="xml_about_version_summary_now">version:0.1</string>
+    <string name="activity_label_about">关于</string>
+    <string name="activity_label_preference">首选项</string>
+    <string name="xml_preference_mobile_networks_options_key">mobile_networks</string>
+    <string name="xml_preference_mobile_networks_options_title">开启数据网络</string>
+    <string name="xml_about_dev_key_author">id_author</string>
+    <string name="xml_about_dev_info">开发者信息</string>
+    <string name="xml_about_dev_summary_author">魏来</string>
+    <string name="xml_about_dev_title_author">作者</string>
+    <string name="xml_about_dev_key_organization">id_organization</string>
+    <string name="xml_about_dev_summary_organization">蓝色技术工作室</string>
+    <string name="xml_about_dev_title_organization">组织</string>
+    <string name="xml_about_dev_key_address">id_address</string>
+    <string name="xml_about_dev_summary_address">江西科技学院</string>
+    <string name="xml_about_dev_title_address">地址</string>
+    <string name="xml_about_version_info">版本信息</string>
+    <string name="xml_about_version_title_now">当前版本</string>
+    <string name="xml_preference_mobile_networks_summary_options">允许通过移动网络存取数据</string>
+    <string name="xml_preference_mobile_networks_title">网络设置</string>
+    <string name="xml_preference_bluetooth_options_key">bluetooth</string>
+    <string name="xml_preference_bluetooth_options_title">开启蓝牙</string>
+    <string name="xml_preference_wifi_options_key">wifi</string>
+    <string name="xml_preference_wifi_options_title">开启WIFI</string>
+    <string name="none_paired">没有已配对设备</string>
+    <string name="scanning">搜索中</string>
+    <string name="select_device">选择设备</string>
+    <string name="none_found">没有发现设备</string>
+    <string name="insecure_connect">不安全的连接</string>
+    <string name="secure_connect">安全的连接</string>
+    <string name="discoverable">是否被发现</string>
+    <string name="bt_not_enabled_leaving">蓝牙没有开启,离开应用</string>
+
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+</resources>
